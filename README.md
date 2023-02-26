@@ -1,0 +1,2 @@
+# BANGLA KJV JOHN
+ "This repository contains the interlinearized text of the book of John from the King James Version of the Bible, translated into Bangla language. The text is formatted using a custom LaTeX template and interlinearization is automated using a Python script. The repository is intended to provide a resource for those interested in studying the original Greek text of the Gospel of John, as well as for those interested in learning how to interlinearize texts using LaTeX and Python."
